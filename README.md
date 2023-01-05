@@ -9,7 +9,7 @@
 내가 만든 기능 :
 
 머지 - RaycastAll
-![Uploading 그림4.gif…]()
+![그림4](https://user-images.githubusercontent.com/37183346/210726517-48eb38da-1b80-4fa5-9706-43e3be6e4eb9.gif)
 
 
 데이터 관리 - 엑셀 임포터/CSVReader 사용 ,배열로 가져온 데이터를 게임내에서 필요한 데이터와 대조하여
