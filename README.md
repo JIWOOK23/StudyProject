@@ -7,8 +7,10 @@
 장르 : 머지 , 타이쿤 
 
 내가 만든 기능 :
+
 머지 - RaycastAll
-![그림4](https://user-images.githubusercontent.com/37183346/210726283-59789a01-67b4-4b07-845c-6fe818abb4e4.gif)
+![Uploading 그림4.gif…]()
+
 
 데이터 관리 - 엑셀 임포터/CSVReader 사용 ,배열로 가져온 데이터를 게임내에서 필요한 데이터와 대조하여
 피자의 가격, 이미지, 기타 수치등을 기획자가 엑셀/CSV 파일에 추가할 시에 자동적으로 생성
